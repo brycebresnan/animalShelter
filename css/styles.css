@@ -1,4 +1,9 @@
 .column {
   width: 500px;
   float: left;
+  text-align: center;
+}
+
+.column img {
+  width: 300px;
 }
